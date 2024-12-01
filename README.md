@@ -1,5 +1,5 @@
 # examplework
-Thesis/project work from my Materials Science degree. 
+Thesis/project work from my Materials Science degrees. Peer-reviewed/published work can be found separately online.
 
 This repo includes:
 
